@@ -1,0 +1,16 @@
+part_mxp.c:38:12:chk_magic_seq	0	static
+part_mxp.c:56:13:fill_init_record	16	static
+part_mxp.c:111:5:mxp_check_record_magic	0	static
+part_mxp.c:117:5:mxp_check_table_magic	8	static
+part_mxp.c:75:5:mxp_init	40	static
+part_mxp.c:129:5:mxp_init_table	16	static
+part_mxp.c:144:5:mxp_get_total_record_count	0	static
+part_mxp.c:149:5:mxp_save_table	0	static
+part_mxp.c:155:5:mxp_save_table_from_mem	56	static
+part_mxp.c:226:5:mxp_get_record_by_index	8	static
+part_mxp.c:240:5:mxp_delete_record_by_index	8	static
+part_mxp.c:255:5:mxp_set_record_status	8	static
+part_mxp.c:268:5:mxp_get_record_index	24	static
+part_mxp.c:188:5:mxp_set_record	48	static
+part_mxp.c:287:5:mxp_get_record_by_name	40	static
+part_mxp.c:304:5:mxp_load_table	40	static

@@ -1,0 +1,1 @@
+cmd_drivers/mstar/gpio/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o drivers/mstar/gpio/built-in.o drivers/mstar/gpio/infinity2m/mhal_gpio.o drivers/mstar/gpio/infinity2m/mhal_pinmux.o drivers/mstar/gpio/drvGPIO.o drivers/mstar/gpio/mdrv_sw_iic.o 

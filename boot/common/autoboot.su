@@ -1,0 +1,3 @@
+autoboot.c:253:13:bootdelay_process	48	static
+autoboot.c:351:5:get_partition_size	24	static
+autoboot.c:404:6:autoboot_command	72	static

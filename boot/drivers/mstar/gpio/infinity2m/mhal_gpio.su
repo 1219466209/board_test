@@ -1,0 +1,16 @@
+mhal_gpio.c:64:6:MHal_GPIO_Init	0	static
+mhal_gpio.c:69:6:MHal_GPIO_Pad_Set	8	static
+mhal_gpio.c:82:5:MHal_GPIO_PadGroupMode_Set	0	static
+mhal_gpio.c:87:5:MHal_GPIO_PadVal_Set	0	static
+mhal_gpio.c:92:6:MHal_GPIO_Pad_Oen	0	static
+mhal_gpio.c:104:6:MHal_GPIO_Pad_Odn	0	static
+mhal_gpio.c:116:5:MHal_GPIO_Pad_Level	8	static
+mhal_gpio.c:129:4:MHal_GPIO_Pad_InOut	8	static
+mhal_gpio.c:142:6:MHal_GPIO_Pull_High	0	static
+mhal_gpio.c:154:6:MHal_GPIO_Pull_Low	0	static
+mhal_gpio.c:166:6:MHal_GPIO_Set_High	4	static
+mhal_gpio.c:179:6:MHal_GPIO_Set_Low	4	static
+mhal_gpio.c:192:6:MHal_GPIO_Set_Input	0	static
+mhal_gpio.c:204:6:MHal_GPIO_Set_Output	0	static
+mhal_gpio.c:216:5:MHal_GPIO_Get_InOut	8	static
+mhal_gpio.c:229:6:MHal_GPIO_Set_Driving	48	static

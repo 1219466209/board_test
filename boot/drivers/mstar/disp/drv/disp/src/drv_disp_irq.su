@@ -1,0 +1,11 @@
+drv_disp_irq.c:57:6:DrvDispIrqSetIsrNum	0	static
+drv_disp_irq.c:68:6:DrvDispIrqGetIsrNum	16	static
+drv_disp_irq.c:98:6:DrvDispIrqEnable	24	static
+drv_disp_irq.c:124:6:DrvDispIrqGetFlag	16	static
+drv_disp_irq.c:146:6:DrvDispIrqClear	8	static
+drv_disp_irq.c:230:6:_DrvDispCreateTimeZoneIsr	0	static
+drv_disp_irq.c:296:6:_DrvDispIrqCreateVgaHpdIsr	0	static
+drv_disp_irq.c:340:6:_DrvDispIrqDestroyTimeZoneIsr	0	static
+drv_disp_irq.c:370:6:_DrvDispIrqDestroyVgaHpdIsr	0	static
+drv_disp_irq.c:402:6:DrvDispIrqCreateInternalIsr	0	static
+drv_disp_irq.c:412:6:DrvDispIrqDestroyInternalIsr	0	static

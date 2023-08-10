@@ -1,0 +1,2 @@
+hal_disp_irq.c:380:6:HalDispIrqIoCtl	40	static
+hal_disp_irq.c:455:6:HalDispIrqSetDacEn	0	static

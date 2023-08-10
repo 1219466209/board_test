@@ -1,0 +1,4 @@
+mhal_pinmux.c:210:13:_HalPadDisablePadMux	0	static
+mhal_pinmux.c:219:12:HalPadSetMode_General	20	static
+mhal_pinmux.c:413:5:HalPadSetVal	16	static
+mhal_pinmux.c:432:5:HalPadSetMode	16	static

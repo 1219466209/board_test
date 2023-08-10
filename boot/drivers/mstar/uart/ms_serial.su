@@ -1,0 +1,11 @@
+ms_serial.c:173:5:ms_serial_tstc	0	static
+ms_serial.c:193:6:ms_serial_setbrg	0	static
+ms_serial.c:74:5:ms_serial_init	8	static
+ms_serial.c:144:5:ms_serial_getc	8	static
+ms_serial.c:102:6:ms_putc	0	static
+ms_serial.c:122:6:ms_serial_putc	8	static
+ms_serial.c:254:6:ms_serial_initialize	0	static
+ms_serial.c:259:30:default_serial_console	0	static
+ms_serial.c:264:5:ms_uart_getc	8	static
+ms_serial.c:278:6:ms_uart_putc	8	static
+ms_serial.c:295:5:ms_uart_init	16	static

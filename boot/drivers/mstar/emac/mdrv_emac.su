@@ -1,0 +1,16 @@
+mdrv_emac.c:431:6:MDrv_EMAC_close	8	static
+mdrv_emac.c:139:12:MDrv_EMAC_open	32	static
+mdrv_emac.c:449:6:MDev_EMAC_stats	8	static
+mdrv_emac.c:465:6:MDrv_EMAC_PhyAddrScan	24	static
+mdrv_emac.c:614:5:MDrv_EMAC_VarInit	32	static
+mdrv_emac.c:687:6:MDrv_EMAC_DumpMem	32	static
+mdrv_emac.c:362:12:MDrv_EMAC_tx	16	static
+mdrv_emac.c:206:12:MDrv_EMAC_rx	48	static
+mdrv_emac.c:708:6:MDrv_EMAC_DumpReg	24	static
+mdrv_emac.c:730:4:MDrv_EMAC_Bist	24	static
+mdrv_emac.c:777:6:MDrv_EMAC_PatchPHY	16	static
+mdrv_emac.c:798:5:MDrv_EMAC_initialize	40	static
+mdrv_emac.c:854:6:MDrv_EMAC_PowerMode	0	static
+mdrv_emac.c:862:6:MDrv_EMAC_WaveTest	0	static
+mdrv_emac.c:874:6:MDrv_EMAC_SwReset	0	static
+mdrv_emac.c:884:5:board_eth_init	8	static

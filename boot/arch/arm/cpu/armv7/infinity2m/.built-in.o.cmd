@@ -1,0 +1,1 @@
+cmd_arch/arm/cpu/armv7/infinity2m/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o arch/arm/cpu/armv7/infinity2m/built-in.o arch/arm/cpu/armv7/infinity2m/infinity2m.o arch/arm/cpu/armv7/infinity2m/timer.o arch/arm/cpu/armv7/infinity2m/board.o arch/arm/cpu/armv7/infinity2m/reset.o 

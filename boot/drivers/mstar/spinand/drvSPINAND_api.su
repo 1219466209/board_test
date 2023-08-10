@@ -1,0 +1,10 @@
+drvSPINAND_api.c:206:12:_MDrv_SPINAND_GetMtdPartsFromPNI	128	static
+drvSPINAND_api.c:44:6:dumpPartition	32	static
+drvSPINAND_api.c:61:5:MDrv_SPINAND_IsGoodBlk	16	static
+drvSPINAND_api.c:78:5:MDrv_SPINAND_WriteCIS_for_ROM	32	static
+drvSPINAND_api.c:399:5:MDrv_SPINAND_SearchCIS_in_DRAM	40	static
+drvSPINAND_api.c:486:5:MDrv_SPINAND_GetMtdParts	80	static
+drvSPINAND_api.c:512:21:MDrv_SPINAND_SearchPartition	16	static
+drvSPINAND_api.c:529:5:MDrv_SPINAND_GetPartOffset	32	static
+drvSPINAND_api.c:579:5:MDrv_SPINAND_ReadCISBlk	32	static
+drvSPINAND_api.c:617:6:dump_mem	32	static

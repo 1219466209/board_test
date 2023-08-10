@@ -1,0 +1,15 @@
+drvGPIO.c:101:6:MDrv_GPIO_Pad_Set	0	static
+drvGPIO.c:112:5:MDrv_GPIO_PadGroupMode_Set	0	static
+drvGPIO.c:123:5:MDrv_GPIO_PadVal_Set	0	static
+drvGPIO.c:130:6:mdrv_gpio_set_high	0	static
+drvGPIO.c:141:6:mdrv_gpio_set_low	0	static
+drvGPIO.c:152:6:mdrv_gpio_set_input	0	static
+drvGPIO.c:174:5:mdrv_gpio_get_inout	0	static
+drvGPIO.c:189:5:mdrv_gpio_get_level	0	static
+drvGPIO.c:210:6:MDrv_GPIO_Pad_Odn	0	static
+drvGPIO.c:221:6:MDrv_GPIO_Pad_Oen	0	static
+drvGPIO.c:232:6:MDrv_GPIO_Pull_High	0	static
+drvGPIO.c:243:6:MDrv_GPIO_Pull_Low	0	static
+drvGPIO.c:254:4:MDrv_GPIO_Pad_Read	8	static
+drvGPIO.c:266:28:MHal_GPIO_Set_Driving	0	static
+drvGPIO.c:270:6:MDrv_GPIO_Set_Driving	0	static

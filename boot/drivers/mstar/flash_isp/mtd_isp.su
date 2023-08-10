@@ -1,0 +1,5 @@
+mtd_isp.c:456:5:_spi_flash_read	24	static
+mtd_isp.c:501:5:_spi_flash_write	32	static
+mtd_isp.c:531:5:_spi_flash_erase	24	static
+mtd_isp.c:621:19:spi_flash_probe	16	static
+mtd_isp.c:684:6:spi_flash_free	0	static

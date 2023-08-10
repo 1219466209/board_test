@@ -1,0 +1,4 @@
+MsDebug.c:120:12:_initDebugLevel	16	static
+MsDebug.c:69:5:do_set_debugging_message_level	144	static
+MsDebug.c:108:5:do_initDebugLevel	8	static
+MsDebug.c:164:6:_dump	144	static

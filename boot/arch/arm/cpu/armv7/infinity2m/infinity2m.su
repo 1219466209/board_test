@@ -1,0 +1,8 @@
+infinity2m.c:62:5:arch_cpu_init	0	static
+infinity2m.c:81:5:dram_init	0	static
+infinity2m.c:88:19:ms_check_chip	0	static
+infinity2m.c:106:5:checkboard	16	static
+infinity2m.c:196:19:ms_devinfo_boot_type	0	static
+infinity2m.c:243:5:board_late_init	0	static
+infinity2m.c:377:13:Chip_Flush_Memory	0	static
+infinity2m.c:382:13:Chip_Read_Memory	0	static

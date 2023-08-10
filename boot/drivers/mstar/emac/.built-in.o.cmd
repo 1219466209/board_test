@@ -1,0 +1,1 @@
+cmd_drivers/mstar/emac/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o drivers/mstar/emac/built-in.o drivers/mstar/emac/infinity2m/mhal_emac.o drivers/mstar/emac/mdrv_emac.o drivers/mstar/emac/cmd_emac.o 

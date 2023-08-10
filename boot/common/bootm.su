@@ -1,0 +1,5 @@
+bootm.c:248:5:bootm_find_ramdisk_fdt	16	static
+bootm.c:276:5:bootm_decomp_image	64	static
+bootm.c:492:7:bootm_disable_interrupts	8	static
+bootm.c:792:17:image_get_kernel	24	static
+bootm.c:634:5:do_bootm_states	88	static

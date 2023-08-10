@@ -1,0 +1,16 @@
+cmd_bootlogo.c:1076:8:BootLogoMemAlloc	0	static
+cmd_bootlogo.c:1081:8:BootLogoMemRelease	0	static
+cmd_bootlogo.c:2546:5:do_bootfb	0	static
+blit32.h:93:5:blit32_TextNExplicit	104	static
+cmd_bootlogo.c:1087:26:_BootLogoGetTiminId	8	static
+cmd_bootlogo.c:1136:6:_BootLogoDispPnlInit	1520	static
+cmd_bootlogo.c:1187:6:_BootLogoYuv444ToYuv420	64	static
+cmd_bootlogo.c:1571:6:_BootDispCtrl	176	static
+cmd_bootlogo.c:1935:23:_BootDbTable	96	static
+cmd_bootlogo.c:2046:5:do_display	856	static
+cmd_bootlogo.c:2309:6:drawRect_rgb32	8	static
+cmd_bootlogo.c:2325:7:drawRect_rgb12	12	static
+cmd_bootlogo.c:2345:6:drawRect_rgb15	12	static
+cmd_bootlogo.c:2371:6:do_bootfb_bar	104	static
+cmd_bootlogo.c:2468:6:do_bootfb_progress	112	static
+cmd_bootlogo.c:2541:6:do_bootfb_blank	0	static

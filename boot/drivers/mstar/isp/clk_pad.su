@@ -1,0 +1,4 @@
+clk_pad.c:23:6:Select_SR_IOPad	0	static
+clk_pad.c:29:6:Set_SR_MCLK	0	static
+clk_pad.c:74:6:ISP_SrPwdn	0	static
+clk_pad.c:88:6:ISP_SrRst	0	static

@@ -1,0 +1,2 @@
+cmd_osd.c:556:6:UPDPrintLineSize	0	static
+cmd_osd.c:563:6:DrawProgressBar	0	static

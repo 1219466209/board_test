@@ -1,0 +1,8 @@
+MsSysUtility.c:253:5:do_gpio	32	static
+MsSysUtility.c:37:7:ReadByte	0	static
+MsSysUtility.c:45:8:Read2Byte	0	static
+MsSysUtility.c:65:9:WriteByte	0	static
+MsSysUtility.c:75:9:Write2Byte	0	static
+MsSysUtility.c:91:9:WriteRegBit	16	static
+MsSysUtility.c:102:9:WriteRegBitPos	8	static
+MsSysUtility.c:119:5:do_riu	32	static

@@ -1,0 +1,2 @@
+xz_crc32.c:30:16:xz_crc32_init	4	static
+xz_crc32.c:49:20:xz_crc32	4	static

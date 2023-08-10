@@ -1,0 +1,11 @@
+cmd_customer_init.c:456:5:do_customer_init	0	static
+cmd_customer_init.c:87:13:WaitTime	16	static
+cmd_customer_init.c:294:13:msKeypad_CH_GetKey	40	dynamic
+cmd_customer_init.c:96:5:Spi_Gpio_SetCmd	24	static
+cmd_customer_init.c:170:13:init_param	8	static
+cmd_customer_init.c:152:13:init_cmd	8	static
+cmd_customer_init.c:187:6:spi_panel_init	8	static
+cmd_customer_init.c:288:6:init_panel	0	static
+cmd_customer_init.c:342:6:sar_keypad_test	16	static
+cmd_customer_init.c:400:14:get_boot_mode_from_keypad	40	static
+cmd_customer_init.c:423:5:do_bootcheck	8	static

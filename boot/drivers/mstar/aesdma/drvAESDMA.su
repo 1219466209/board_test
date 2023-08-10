@@ -1,0 +1,5 @@
+drvAESDMA.c:27:6:MDrv_AESDMA_Run	8	static
+drvAESDMA.c:94:6:MDrv_SHA_Run	24	static
+drvAESDMA.c:127:6:MDrv_RSA_Run	24	static
+drvAESDMA.c:191:6:runDecrypt	56	static
+drvAESDMA.c:218:6:runAuthenticate	336	static

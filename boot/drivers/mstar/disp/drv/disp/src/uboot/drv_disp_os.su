@@ -1,0 +1,14 @@
+drv_disp_os.c:43:8:DrvDispOsMemAlloc	0	static
+drv_disp_os.c:48:6:DrvDispOsMemRelease	0	static
+drv_disp_os.c:53:6:DrvDispOsMsSleep	0	static
+drv_disp_os.c:58:6:DrvDispOsUsSleep	0	static
+drv_disp_os.c:63:5:DrvDispOsImiHeapAlloc	0	static
+drv_disp_os.c:68:6:DrvDispOsImiHeapFree	0	static
+drv_disp_os.c:73:6:DrvDispOsPadMuxActive	0	static
+drv_disp_os.c:78:6:DrvDispOsCreateTask	0	static
+drv_disp_os.c:83:6:DrvDispOsDestroyTask	0	static
+drv_disp_os.c:88:6:DrvDispOsSetDeviceNode	0	static
+drv_disp_os.c:93:6:DrvDispOsSetClkOn	0	static
+drv_disp_os.c:98:6:DrvDispOsSetClkOff	0	static
+drv_disp_os.c:104:5:DrvDispOsGetSystemTime	0	static
+drv_disp_os.c:109:5:DrvDispOsGetSystemTimeStamp	0	static

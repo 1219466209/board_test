@@ -1,0 +1,2 @@
+hal_card_timer.c:47:7:Hal_Timer_mDelay	8	static
+hal_card_timer.c:71:7:Hal_Timer_uDelay	8	static

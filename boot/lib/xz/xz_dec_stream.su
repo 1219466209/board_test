@@ -1,0 +1,8 @@
+le_byteshift.h:11:19:__get_unaligned_le32	0	static
+xz_dec_stream.c:187:20:dec_vli	28	static
+xz_dec_stream.c:300:13:index_update	24	static
+xz_dec_stream.c:169:13:fill_temp	16	static
+xz_dec_stream.c:858:16:xz_dec_reset	16	static
+xz_dec_stream.c:782:23:xz_dec_run	80	static
+xz_dec_stream.c:821:26:xz_dec_init	8	static
+xz_dec_stream.c:870:16:xz_dec_end	0	static

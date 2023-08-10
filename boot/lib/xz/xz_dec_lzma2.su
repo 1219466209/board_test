@@ -1,0 +1,7 @@
+xz_dec_lzma2.c:623:13:lzma_len	16	static
+xz_dec_lzma2.c:350:13:dict_repeat.part.0	8	static
+xz_dec_lzma2.c:726:13:lzma_main	40	static
+xz_dec_lzma2.c:935:23:xz_dec_lzma2_run	32	static
+xz_dec_lzma2.c:1114:32:xz_dec_lzma2_create	24	static
+xz_dec_lzma2.c:1153:23:xz_dec_lzma2_reset	0	static
+xz_dec_lzma2.c:1195:16:xz_dec_lzma2_end	0	static

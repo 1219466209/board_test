@@ -1,0 +1,5 @@
+mdrv_sar.c:34:6:HAL_SAR_Write2Byte	0	static
+mdrv_sar.c:40:5:HAL_SAR_Read2Byte	0	static
+mdrv_sar.c:45:6:HAL_SAR_Write2ByteMask	8	static
+mdrv_sar.c:54:6:sar_hw_init	0	static
+mdrv_sar.c:61:5:sar_get_value	16	static

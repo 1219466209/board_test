@@ -1,0 +1,8 @@
+drv_pnl_os.c:22:8:DrvPnlOsMemAlloc	0	static
+drv_pnl_os.c:27:6:DrvPnlOsMemRelease	0	static
+drv_pnl_os.c:32:6:DrvPnlOsMsSleep	0	static
+drv_pnl_os.c:37:6:DrvPnlOsUsSleep	0	static
+drv_pnl_os.c:43:6:DrvPnlOsPadMuxActive	0	static
+drv_pnl_os.c:49:6:DrvPnlOsSetDeviceNode	0	static
+drv_pnl_os.c:54:6:DrvPnlOsSetClkOn	0	static
+drv_pnl_os.c:59:6:DrvPnlOsSetClkOff	0	static

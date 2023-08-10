@@ -1,0 +1,16 @@
+drvSPINAND.c:94:13:_MDrv_SPINAND_GET_INFO	560	static
+drvSPINAND.c:174:6:MDrv_SPINAND_Init	32	static
+drvSPINAND.c:305:5:MDrv_SPINAND_Read	32	static
+drvSPINAND.c:378:5:MDrv_SPINAND_Read_RandomIn	0	static
+drvSPINAND.c:383:5:MDrv_SPINAND_ReadStatusRegister	8	static
+drvSPINAND.c:388:5:MDrv_SPINAND_WriteStatusRegister	8	static
+drvSPINAND.c:393:5:MDrv_SPINAND_SetMode	0	static
+drvSPINAND.c:398:5:MDrv_SPINAND_Write	16	static
+drvSPINAND.c:412:4:MDrv_SPINAND_ReadID	8	static
+drvSPINAND.c:417:5:MDrv_SPINAND_BLOCK_ERASE	8	static
+drvSPINAND.c:431:5:MDrv_SPINAND_EnableOtp	0	static
+drvSPINAND.c:436:5:MDrv_SPINAND_LockOtp	0	static
+drvSPINAND.c:441:4:MDrv_SPINAND_WB_BBM	16	static
+drvSPINAND.c:447:4:MDrv_SPINAND_WB_DumpBBM	0	static
+drvSPINAND.c:452:6:SpiNandMain	16	static
+drvSPINAND.c:458:6:MDrv_SPINAND_SetDevDriving	8	static

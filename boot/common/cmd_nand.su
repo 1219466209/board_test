@@ -1,0 +1,13 @@
+cmd_nand.c:127:12:set_dev	16	static
+cmd_nand.c:203:12:arg_off	48	static
+cmd_nand.c:219:12:arg_off_size	48	static
+cmd_nand.c:458:13:adjust_size_for_badblocks	48	static
+cmd_nand.c:1209:12:nand_load_image	64	static
+cmd_nand.c:1297:12:do_nandboot	48	static
+cmd_nand.c:402:13:nand_print_and_set_info.constprop	16	static
+cmd_nand.c:481:5:_getsysts	0	static
+cmd_nand.c:493:5:otp_access	88	static
+cmd_nand.c:575:5:nand_set_driving	16	static
+cmd_nand.c:593:5:nand_set_dev_driving	8	static
+cmd_nand.c:607:5:nand_set_quad_mode	16	static
+cmd_nand.c:628:12:do_nand	184	static

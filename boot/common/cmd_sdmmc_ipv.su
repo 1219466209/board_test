@@ -1,0 +1,4 @@
+cmd_sdmmc_ipv.c:19:6:do_io_std_test	16	static
+cmd_sdmmc_ipv.c:39:6:do_io_std_burntest	8	static
+cmd_sdmmc_ipv.c:70:5:do_sdmmc_test	32	static
+cmd_sdmmc_ipv.c:65:6:do_prepare_power_saving_mode_queue	0	static

@@ -1,0 +1,8 @@
+cmd_emac.c:56:5:do_emac	8	static
+cmd_emac.c:110:5:do_setMac	32	static
+cmd_emac.c:99:5:do_ewavetest	8	static
+cmd_emac.c:150:5:do_dumpMac	8	static
+cmd_emac.c:164:5:do_bistMac	368	static
+cmd_emac.c:204:5:do_Loopback	8	static
+cmd_emac.c:216:5:do_loadspi	24	static
+cmd_emac.c:241:5:do_emacpowerdown	8	static

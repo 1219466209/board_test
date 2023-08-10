@@ -1,0 +1,3 @@
+drvSPINAND_hal.c:46:5:HAL_SPINAND_Init	16	static
+drvSPINAND_hal.c:66:6:PalSpinand_SetDriving	16	static
+drvSPINAND_hal.c:108:6:HAL_SPINAND_DumpCkg	8	static

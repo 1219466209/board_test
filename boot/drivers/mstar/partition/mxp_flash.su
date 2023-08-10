@@ -1,0 +1,5 @@
+mxp_flash.c:94:12:nor_flash_mxp_get_storage_info	0	static
+mxp_flash.c:45:12:nor_flash_mxp_write_bytes	24	static
+mxp_flash.c:63:12:nor_flash_mxp_update_byte	32	static
+mxp_flash.c:32:12:nor_flash_mxp_read_bytes	8	static
+mxp_flash.c:102:5:mxp_init_nor_flash	16	static

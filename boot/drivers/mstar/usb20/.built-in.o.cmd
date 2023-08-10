@@ -1,0 +1,1 @@
+cmd_drivers/mstar/usb20/built-in.o :=  arm-linux-gnueabihf-ld.bfd     -r -o drivers/mstar/usb20/built-in.o drivers/mstar/usb20/drvhostlib.o drivers/mstar/usb20/ubootglue.o drivers/mstar/usb20/./hal/infinity2m/usb_power.o 
