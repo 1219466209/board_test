@@ -1,0 +1,62 @@
+#!/bin/sh
+
+
+# Start all init scripts in /etc/init.d
+# executing them in numerical order.
+#
+for i in /etc/init.d/S??* ;do
+
+     # Ignore dangling symlinks (if any).
+     [ ! -f "$i" ] && continue
+
+     case "$i" in
+	*.sh)
+	    # Source shell script for speed.
+	    (
+		trap - INT QUIT TSTP
+		set start
+		. $i
+	    )
+	    ;;
+	*)
+	    # No sh extension, so fork subprocess.
+	    $i start
+	    ;;
+    esac
+done
+
+export PATH=$PATH:/config
+export TERMINFO=/config/terminfo
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/config/lib:/config/wifi
+mkdir -p /dev/pts
+mount -t sysfs none /sys
+mount -t tmpfs mdev /dev
+mount -t debugfs none /sys/kernel/debug/
+mdev -s
+mkdir -p /var/lock
+mount -t ubifs ubi0:miservice /config
+ mount -t ubifs ubi0:customer /customer
+ mount -t ubifs ubi0:appconfigs /appconfigs
+
+mkdir -p /dev/pts
+mount -t devpts devpts /dev/pts
+busybox telnetd&
+echo 85 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio85/direction
+echo 1 > /sys/class/gpio/gpio85/value
+echo 86 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio86/direction
+echo 1 > /sys/class/gpio/gpio86/value
+echo 90 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio90/direction
+echo 1 > /sys/class/gpio/gpio90/value
+echo 47 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio47/direction
+echo 0 > /sys/class/gpio/gpio47/value
+if [ -e /etc/core.sh ]; then
+    echo "|/etc/core.sh %p" > /proc/sys/kernel/core_pattern
+chmod 777 /etc/core.sh
+fi;
+if [ -e /customer/demo.sh ]; then
+    /customer/demo.sh
+fi;
